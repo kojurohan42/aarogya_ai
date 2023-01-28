@@ -1,0 +1,39 @@
+{
+    "plants": [
+        {
+            "id": 1,
+            "name": "Basale",
+            "about": "Height: grows up to 10 feet \n Plant type: Vine \n Climate: 0-35 centigrade \n Soil: Fertile, moist but well drained soils \n Position: Warm sun  \n Parts used: Leaves, Stem, Roots",
+            "usage": "Indigestion \n Excellent for pregnant women and lactating mothers \n \n Good for bone heath and teeth \n Good for heart health and blood pressure related issues \n Boosts immunity and delays ageing.\n Good for eyes \n Heal mouth sores \n Relief for burning sensation in eyes, on palms and soles \n Relief in urinary tract infection/burning sensation while passing urine \n Consumption: \n Leaves of Malabar spinach are chewed raw for mouth ulcers \n Relieve constipation in children and pregnant women \n Crushed leaves with cheese applied on burns \n In females during irregular period root paste is taken with rice washed water \n Side effects: \n eating too can cause cramping, gas, and bloating \n interfere with the bodys ability to absorb minerals due to its oxalic acid and purine content \n can cause hives, itchy eyes, or nasal congestion in allergic persons.",
+            "growth": "1.Get seeds from nursery \n 2.Soak the seeds in clear water for 24 hours before sowing \n 3.Sow the seeds when soil is warm and moist.( doesn't grow in cold soil) \n 4.The seeds germinate within a week."
+        },
+        {
+            "id": 2,
+            "name": "Guava",
+            "about": "Height:20 ft \n Plant type: Tree \n Climate: Tropical and subtropical climate, temperatures for growth and production range from 73° to 82°F (23–28 g)",
+            "usage": "Boost immunity \n Reduce the risk of developing Cancer \n keeping your heart healthy \n in better eyesight \n Helps during constipation \n for toothaches \n Consumption:First wash the guava,it can be eaten with skin and eat as a whole or cut in pieces.\n Side effects: \n Cause skin irritation in some people \n Cause temporary nausea or stomach pain",
+            "growth": "\n 1. Either place the seeds in a pot of boiling water for five minutes or soak seeds in water for two weeks prior planting. \n 2.Fill a nursery pot with soilless seed starting mix. \n 3.Press one seed to the center of pot with your finger. \n 4.Be sure to cover the seed with a bit of soils mixture."
+        },
+        {
+            "id": 3,
+            "name": "Neem",
+            "about": "Height : 50 to 120 \n Plant type: tree \n Parts used: bark, leaves, and seeds",
+            "usage": "Gum disease (gingivitis) \n heal ulcers in the digestive tract \n prevent pregnancy \n kill bacteria \n prevent plaque from forming in the mouth. \n Heal mouth sores \n Consumption: \n Pluck all the leaves. \n Dry them directly under sun to remove moisture. \n Grind them into a fine powder. \n Again, keep the powder under direct sunlight to remove the remaining moisture. \n Pass it through sieve 100 to remove solid particles. \n Store it in a glass container, in a cool dry place for future use. \n Side effects: \n Vomiting, diarrhea, drowsiness, blood disorders, seizures, loss of consciousness, coma, brain disorders, and deaths. \n during pregnancy may cause miscarriage. \n neem cause infertility in men  ",
+            "growth": "1.Plough the land and break clods and clumps. \n 2. Sow the seeds at depth of 1-1.5 cm or by transplanting. "
+        },
+        {
+            "id": 4,
+            "name": "Sandalwood",
+            "about": "Height:  30 feet \n Plant type: tropical tree",
+            "usage": " \n anti-inflammatory \n manage anxiety \n support wound healing \n fight bacteria \n guard against skin cancer \n Consumption: \n Blended with water to make paste \n Side effects: \n during pregnancy may cause miscarriage. \n can cause kidney damage for kidney patients",
+            "growth": "drip irrigation method for 2 to 3 weeks"
+        },
+        {
+            "id": 5,
+            "name": "Tulsi(Holy Basil)",
+            "about": "Height:  3-5 feet \n Plant type: Bushy plant located in tropical and semitropical regions",
+            "usage": "Common cold \n heart diseases \n headaches \n stomach disorders \n protects against mosquitoes, flies, and insects. \n Consumption: \n Consume Tulsi leaves raw, plucked fresh from the plant, add it your tea.\n Side effects: \n affect reproductive health. \n nausea or diarrhoea",
+            "growth": "1.Take a cutting from the tip of a plant \n 2.Put it in a jar of water on a warm windowsill. \n 3.Once the roots begin to form, put it in a pot in some moist potting mix."
+        }
+    ]
+}
